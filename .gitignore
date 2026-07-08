@@ -13,9 +13,6 @@ db/
 runs/
 *.cache
 
-# Optional: pretrained weights
-*.pt
-
 # IDE
 .vscode/
 .idea/
