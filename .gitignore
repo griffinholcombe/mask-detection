@@ -6,8 +6,15 @@ __pycache__/
 *.egg-info/
 .Python
 
-# Chroma database
+# Chroma
 db/
+
+# YOLO
+runs/
+*.cache
+
+# Optional: pretrained weights
+*.pt
 
 # IDE
 .vscode/
